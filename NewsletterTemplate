@@ -1,0 +1,1421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>*|MC:SUBJECT|*</title>
+    
+  <style type="text/css">
+		p{
+			margin:1em 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0;
+			mso-table-rspace:0;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		#templateHeader{
+			padding-top:35px;
+			padding-bottom:15px;
+			text-align:right;
+		}
+		#templateHeader img{
+			display:inline-block;
+		}
+		body,#bodyTable{
+			background-color:#ffffff;
+		}
+		#templateTitle{
+			display:block;
+			font-family:'Times New Roman',Times,Baskerville,Georgia,serif;
+			font-size:36px;
+			line-height:38px;
+			color:#7f85d9;
+			padding:0 20px 15px;
+		}
+		#templateDate{
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			font-size:14px;
+			line-height:16px;
+			color:#777777;
+			padding:0 20px 15px;
+		}
+		#templateSummary{
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			font-size:14px;
+			line-height:18px;
+			color:#333333;
+			padding:0 20px 20px;
+		}
+		.section{
+			background-color:#FFFFFF;
+		}
+		.section.profile .section-content,.section.intro .section-content,.section.education .section-content,.section.advice .section-content,.section.other .section-content,.section.gif .section-content{
+			padding:20px;
+		}
+		.section.class-listing .section-content{
+			padding-left:20px;
+			padding-right:20px;
+			overflow:hidden;
+		}
+		.section-heading{
+			font-size:18px;
+			line-height:20px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+		}
+		.section-image{
+			position:relative;
+			margin-top:20px;
+			overflow:hidden;
+		}
+		.section-image img{
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		.section-dateauthor{
+			color:#777777;
+			font-size:12px;
+			line-height:12px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:8px;
+		}
+		.section-title{
+			color:#333333;
+			font-size:27px;
+			line-height:30px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:15px;
+			margin-bottom:12px;
+		}
+		.section-subtitle{
+			color:#333333;
+			font-size:18px;
+			line-height:21px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+		}
+		.section-text{
+			color:#333333;
+			font-size:14px;
+			line-height:18px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:4px;
+		}
+		.read-more{
+			display:inline-block;
+			color:#49c9d8;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			font-size:12px;
+			line-height:12px;
+			margin-top:14px;
+			text-decoration:none;
+		}
+		.read-more span{
+			display:inline-block;
+			vertical-align:middle;
+			text-decoration:underline;
+		}
+		.read-more img{
+			display:inline-block;
+			vertical-align:middle;
+			margin-left:5px;
+		}
+		.profile .section-heading{
+			color:#eb837a;
+		}
+		.intro .section-heading{
+			color:#8085d9;
+		}
+		.advice .section-heading,.education .section-heading{
+			color:#51c9d7;
+		}
+		.other .section-heading{
+			color:#bc83a1;
+		}
+		.gif .section-heading{
+			color:#eb837a;
+		}
+		.class-listing .class-listing-item{
+			border-style:solid;
+			border-width:10px 0 0;
+			margin-bottom:20px;
+		}
+		.class-listing-item .column{
+			width:50%;
+			height:100%;
+		}
+		.class-listing-item .column td{
+			padding:20px;
+		}
+		.class-listing-item .class-details{
+			padding:10px 10px 0;
+			border-width:1px 0 0;
+			border-style:solid;
+		}
+		.class-listing-item .column.first-column{
+			border-width:0 1px 0 0;
+			border-style:solid;
+		}
+		.class-listing .first-item,.class-listing .first-item .column,.first-item .class-details{
+			border-color:#8085d9;
+		}
+		.class-listing .second-item,.class-listing .second-item .column,.second-item .class-details{
+			border-color:#eb837a;
+		}
+		.class-listing .third-item,.class-listing .third-item .column,.third-item .class-details{
+			border-color:#bc83a1;
+		}
+		.class-listing .fourth-item,.class-listing .fourth-item .column,.fourth-item .class-details{
+			border-color:#51c9d7;
+		}
+		.class-listing-item .class-details,.class-listing .class-date,.class-listing .class-theme,.class-listing .class-instructor,.class-listing .class-venue{
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			font-size:13px;
+			line-height:17px;
+		}
+		.class-listing .class-address,.class-listing .class-begin-time,.class-listing .class-end-time{
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			font-size:12px;
+			line-height:15px;
+		}
+		.class-listing .class-venue,.class-listing .class-address,.class-listing .class-instructor{
+			font-style:italic;
+		}
+		.class-listing .class-begin-time,.class-listing .class-end-time,.class-listing .class-address,.class-listing .class-venue{
+			color:#333333;
+		}
+		.class-listing-item .class-details,.class-listing .class-date,.class-listing .class-theme,.class-listing .class-instructor{
+			color:#333333;
+		}
+		.class-listing .class-begin-time,.class-listing .class-theme,.class-listing .class-address,.class-listing .class-instructor{
+			margin-top:5px;
+		}
+		.quote .quote-content{
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		.quote .quote-heading{
+			color:#57ddd4;
+			font-size:120px;
+			line-height:120px;
+			height:60px;
+			font-family:'Times New Roman',Times,Baskerville,Georgia,serif;
+		}
+		.quote .quote-text{
+			color:#333333;
+			font-size:26px;
+			line-height:32px;
+			font-family:'Times New Roman',Times,Baskerville,Georgia,serif;
+			margin-top:14px;
+		}
+		.quote .quote-author{
+			color:#777777;
+			font-size:16px;
+			line-height:22px;
+			font-family:'Times New Roman',Times,Baskerville,Georgia,serif;
+			margin-top:20px;
+		}
+		.spacer{
+			height:40px;
+		}
+		#templatePrefooter{
+			background-color:#57ddd4;
+		}
+		#templatePrefooter .footer-links td{
+			color:#FFFFFF;
+			padding:20px;
+		}
+		#templatePrefooter .footer-links a{
+			display:inline-block;
+			color:#FFFFFF;
+			text-decoration:none;
+			margin-bottom:4px;
+		}
+		#templatePrefooter .footer-links td,#templatePrefooter .footer-links td a{
+			font-size:12px;
+			line-height:18px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+		}
+		#templatePrefooter .footer-links a:hover{
+			text-decoration:underline;
+		}
+		#templatePrefooter .footer-socials td{
+			color:#FFFFFF;
+			padding:20px;
+			font-size:0;
+		}
+		#templatePrefooter .footer-socials a{
+			display:inline-block;
+			vertical-align:middle;
+			width:25px;
+			height:25px;
+			margin-left:10px;
+		}
+		#templatePrefooter .footer-socials img{
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		#templateFooter .column td{
+			padding:20px;
+		}
+		#templateFooter a{
+			font-size:12px;
+			line-height:12px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			color:#777777;
+		}
+		p{
+			margin:1em 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0;
+			mso-table-rspace:0;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		#templateHeader{
+			padding-top:35px;
+			padding-bottom:15px;
+			text-align:right;
+		}
+		#templateHeader img{
+			display:inline-block;
+		}
+		body,#bodyTable{
+			background-color:#ffffff;
+		}
+		#templateTitle{
+			display:block;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:36px;
+			line-height:38px;
+			color:#7f85d9;
+			padding:0 20px 15px;
+		}
+		#templateDate{
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:14px;
+			line-height:16px;
+			color:#777777;
+			padding:0 20px 15px;
+		}
+		#templateSummary{
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:14px;
+			line-height:18px;
+			color:#333333;
+			padding:0 20px 20px;
+		}
+		.section{
+			background-color:#FFFFFF;
+		}
+		.section.profile .section-content,.section.intro .section-content,.section.education .section-content,.section.advice .section-content,.section.other .section-content,.section.gif .section-content{
+			padding:20px;
+		}
+		.section.class-listing .section-content{
+			padding-left:20px;
+			padding-right:20px;
+			overflow:hidden;
+		}
+		.section-heading{
+			font-size:18px;
+			line-height:20px;
+			font-family:'Palatino',Times,serif;
+		}
+		.section-image{
+			position:relative;
+			margin-top:20px;
+			overflow:hidden;
+		}
+		.section-image img{
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		.section-dateauthor{
+			color:#777777;
+			font-size:12px;
+			line-height:12px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			margin-top:8px;
+		}
+		.section-title{
+			color:#333333;
+			font-size:27px;
+			line-height:30px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:15px;
+			margin-bottom:12px;
+		}
+		.section-subtitle{
+			color:#333333;
+			font-size:18px;
+			line-height:21px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+		}
+		.section-text{
+			color:#333333;
+			font-size:14px;
+			line-height:18px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:4px;
+		}
+		.read-more{
+			display:inline-block;
+			color:#49c9d8;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:12px;
+			line-height:12px;
+			margin-top:14px;
+			text-decoration:none;
+		}
+		.read-more span{
+			display:inline-block;
+			vertical-align:middle;
+			text-decoration:underline;
+		}
+		.read-more img{
+			display:inline-block;
+			vertical-align:middle;
+			margin-left:5px;
+		}
+		.profile .section-heading{
+			color:#eb837a;
+		}
+		.intro .section-heading{
+			color:#8085d9;
+		}
+		.advice .section-heading,.education .section-heading{
+			color:#51c9d7;
+		}
+		.other .section-heading{
+			color:#bc83a1;
+		}
+		.gif .section-heading{
+			color:#eb837a;
+		}
+		.quote .section-heading{
+			color:#8085d9;
+		}
+		.class-listing .class-listing-item{
+			border-style:solid;
+			border-width:10px 0 0;
+			margin-bottom:20px;
+		}
+		.class-listing-item .column{
+			width:50%;
+			height:100%;
+		}
+		.class-listing-item .column td{
+			padding:20px;
+		}
+		.class-listing-item .class-details{
+			padding:10px 10px 0;
+			border-width:1px 0 0;
+			border-style:solid;
+		}
+		.class-listing-item .column.first-column{
+			border-width:0 1px 0 0;
+			border-style:solid;
+		}
+		.class-listing .first-item,.class-listing .first-item .column,.first-item .class-details{
+			border-color:#8085d9;
+		}
+		.class-listing .second-item,.class-listing .second-item .column,.second-item .class-details{
+			border-color:#eb837a;
+		}
+		.class-listing .third-item,.class-listing .third-item .column,.third-item .class-details{
+			border-color:#bc83a1;
+		}
+		.class-listing .fourth-item,.class-listing .fourth-item .column,.fourth-item .class-details{
+			border-color:#51c9d7;
+		}
+		.class-listing-item .class-details,.class-listing .class-date,.class-listing .class-theme,.class-listing .class-instructor,.class-listing .class-venue{
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:13px;
+			line-height:17px;
+		}
+		.class-listing .class-address,.class-listing .class-begin-time,.class-listing .class-end-time{
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			font-size:12px;
+			line-height:15px;
+		}
+		.class-listing .class-venue,.class-listing .class-address,.class-listing .class-instructor{
+			font-style:italic;
+		}
+		.class-listing .class-begin-time,.class-listing .class-end-time,.class-listing .class-address,.class-listing .class-venue{
+			color:#333333;
+		}
+		.class-listing-item .class-details,.class-listing .class-date,.class-listing .class-theme,.class-listing .class-instructor{
+			color:#333333;
+		}
+		.class-listing .class-begin-time,.class-listing .class-theme,.class-listing .class-address,.class-listing .class-instructor{
+			margin-top:5px;
+		}
+		.quote .quote-content{
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		.quote .quote-heading{
+			color:#57ddd4;
+			font-size:120px;
+			line-height:120px;
+			height:60px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+		}
+		.quote .quote-text{
+			color:#333333;
+			font-size:26px;
+			line-height:32px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:14px;
+		}
+		.quote .quote-author{
+			color:#777777;
+			font-size:16px;
+			line-height:22px;
+			font-family:"Palatino linotype",book antiqua,palatino,serif;
+			margin-top:20px;
+		}
+		.spacer{
+			height:40px;
+		}
+		#templatePrefooter{
+			background-color:#57ddd4;
+		}
+		#templatePrefooter .footer-links td{
+			color:#FFFFFF;
+			padding:20px;
+		}
+		#templatePrefooter .footer-links a{
+			display:inline-block;
+			color:#FFFFFF;
+			text-decoration:none;
+			margin-bottom:4px;
+		}
+		#templatePrefooter .footer-links td,#templatePrefooter .footer-links td a{
+			font-size:12px;
+			line-height:18px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+		}
+		#templatePrefooter .footer-links a:hover{
+			text-decoration:underline;
+		}
+		#templatePrefooter .footer-socials td{
+			color:#FFFFFF;
+			padding:20px;
+			font-size:0;
+		}
+		#templatePrefooter .footer-socials a{
+			display:inline-block;
+			vertical-align:middle;
+			width:25px;
+			height:25px;
+			margin-left:10px;
+		}
+		#templatePrefooter .footer-socials img{
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		#templateFooter .column td{
+			padding:20px;
+		}
+		#templateFooter a{
+			font-size:12px;
+			line-height:12px;
+			font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;
+			color:#777777;
+		}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mobileHide{
+			display:none;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.utilityLink{
+			display:block;
+			padding:9px 0;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-image{
+			margin-left:-20px !important;
+			margin-right:-20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-image img{
+			width:300% !important;
+			margin-left:-100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-dateauthor{
+			margin-top:15px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.spacer{
+			height:20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateTitle{
+			font-size:32px;
+			line-height:32px;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateDate{
+			padding:0 20px 8px;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateSummary{
+			line-height:19px;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-socials,#templatePrefooter .footer-links{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-socials td,#templatePrefooter .footer-links td{
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-links td,#templatePrefooter .footer-links td a{
+			font-size:16px !important;
+			line-height:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-links td a{
+			margin-bottom:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-socials td{
+			padding:0 20px 20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePrefooter .footer-socials a{
+			width:50px !important;
+			height:50px !important;
+			margin-left:10px !important;
+			margin-right:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateHeader{
+			padding-top:30px !important;
+			padding-bottom:20px !important;
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-heading{
+			font-size:22px !important;
+			line-height:26px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-title{
+			font-size:29px !important;
+			line-height:30px !important;
+			margin-top:12px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-subtitle{
+			font-size:17px !important;
+			line-height:21px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section-text{
+			font-size:14px !important;
+			line-height:19px !important;
+			margin-top:4px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.read-more{
+			font-size:12px !important;
+			line-height:12px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.quote .quote-heading{
+			font-size:160px !important;
+			line-height:160px !important;
+			height:70px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.quote .quote-text{
+			font-size:28px !important;
+			line-height:35px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.quote .quote-author{
+			font-size:20px !important;
+			line-height:20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.section.class-listing .section-content{
+			padding-left:0 !important;
+			padding-right:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item{
+			border-width:20px 0 0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing-item .column{
+			width:100% !important;
+			border-width:0 0 2px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.first-item,.class-listing .class-listing-item.third-item{
+			margin-left:-20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.second-item,.class-listing .class-listing-item.fourth-item{
+			margin-left:20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.first-item .column,.class-listing .class-listing-item.third-item .column{
+			margin-left:20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.second-item .column,.class-listing .class-listing-item.fourth-item .column{
+			margin-left:-20px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.first-item .class-details,.class-listing .class-listing-item.third-item .class-details{
+			padding:10px 0 0 40px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-listing-item.second-item .class-details,.class-listing .class-listing-item.fourth-item .class-details{
+			padding:10px 40px 0 0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing-item .column{
+			width:100% !important;
+			border-width:0 0 2px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing-item td{
+			text-align:center;
+			padding-left:40px !important;
+			padding-right:40px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing-item .column td{
+			padding-left:0 !important;
+			padding-right:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing-item .class-details{
+			font-size:14px !important;
+			line-height:19px !important;
+			border-width:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-date,.class-listing .class-theme,.class-listing .class-instructor,.class-listing .class-venue{
+			font-size:15px !important;
+			line-height:21px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.class-listing .class-address,.class-listing .class-begin-time,.class-listing .class-end-time{
+			font-size:14px !important;
+			line-height:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter{
+			padding-bottom:40px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .column{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .column td{
+			text-align:center !important;
+			padding:40px 40px 0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter a{
+			font-size:18px !important;
+			line-height:20px !important;
+		}
+
+}</style></head>
+  <body>
+    <center>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" id="bodyTable" style="height:100%;">
+        <tr>
+          <td align="center" valign="top" id="bodyCell">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td align="center" valign="top">
+                  <!-- BEGIN TEMPLATE // -->
+                  <!--[if gte mso 9]>
+                  <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                    <tr>
+                      <td align="center" valign="top" width="600" style="width:600px;">
+                        <![endif]-->
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                    <!-- BEGIN PREHEADER // -->
+                    <tr>
+                      <td bgcolor="#49c9d8" style="background-image:url('https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/dd8c5165-8880-40e3-a2e5-59e30ee6145d.jpg');background-repeat:no-repeat;background-position:center;background-size:cover;" background="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/dd8c5165-8880-40e3-a2e5-59e30ee6145d.jpg" width="100%" height="40">
+                        <!--[if gte mso 9]>
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="mso-width-percent:1000;height:40px;">
+                          <v:fill type="frame" src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/dd8c5165-8880-40e3-a2e5-59e30ee6145d.jpg" color="#49c9d8" />
+                        </v:rect>
+                        <![endif]-->
+                      </td>
+                    </tr>
+                    <!-- // END PREHEADER -->
+                    <!-- BEGIN HEADER // -->
+                    <tr>
+                      <td valign="top" id="templateHeader">
+                        <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/d127a09e-d721-4448-aff0-5bc53f188f63.jpg" width="152" alt="" mc:edit="logo">
+                      </td>
+                    </tr>
+                    <!-- // END HEADER -->
+                    <!-- BEGIN SUMMARY // -->
+                    <tr>
+                      <td valign="top" id="templateTitle" mc:edit="templatetitle">
+                        Discover your strenghts and true capabilies
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top" id="templateDate" mc:edit="templatedate">
+                        25 May 2017
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top" id="templateSummary" mc:edit="templatesummary">
+                        Summary text goes here and it can continue up to two lines, if needed even three lines or four, five. Summary text goes here and it can continue up to two lines, if needed even three lines or four, five. Summary text goes here and it can continue up to
+                        two lines, if needed even three lines or four, five.
+                      </td>
+                    </tr>
+                    <!-- // END SUMMARY -->
+                    <!-- BEGIN BODY // -->
+                    <tr>
+                      <td valign="top" id="templateBody">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section profile" mc:repeatable="bodySection" mc:variant="Profile">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="profileheading">
+                                Profile
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/e84afaea-602e-4b64-be5d-14574c9f914b.jpg" alt="" width="100%" mc:edit="profileimage">
+                              </div>
+                              <div class="section-dateauthor" mc:edit="profiledateauthor">
+                                25 May 2017   |   photo by: Andrew Brams
+                              </div>
+                              <div class="section-title" mc:edit="profiletitle">
+                                Profile Title goes here and it can continue up to two lines, if needed even three lines
+                              </div>
+                              <div class="section-subtitle" mc:hideable mc:edit="profilesubtitle">
+                                Subtitle text comes here if needed
+                              </div>
+                              <div class="section-text" mc:hideable mc:edit="profiletext">
+                                We’re building a world where everyone can live their best life: full of purpose, happiness, and peace of mind. If you’re ready to start your journey, we’re ready to guide you.
+                              </div>
+                              <div mc:edit="prfilereadmore">
+                                <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>READ MORE</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section intro" mc:repeatable="bodySection" mc:variant="Intro to classes">
+                          <tr>
+                            <td bgcolor="#49c9d8" style="background-repeat:no-repeat;background-position:center;background-size:cover;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" background="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/0c9594ea-2830-4f63-bb18-f0ac6e888ca9.png" width="100%" height="3">
+                              
+                            </td>
+                          </tr>
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="introheading">
+                                Meditation intro
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/f2a3845a-8e2b-4087-afeb-8f287842b97a.jpg" alt="" width="100%" mc:edit="introimage">
+                              </div>
+                              <div class="section-title" mc:edit="introtitle">
+                                Meditation classes Title goes here and it can continue up to two lines
+                              </div>
+                              <div class="section-subtitle" mc:hideable mc:edit="introsubtitle">
+                                Subtitle text comes here if needed
+                              </div>
+                              <div class="section-text" mc:hideable mc:edit="introtext">
+                                We’re building a world where everyone can live their best life: full of purpose, happiness, and peace of mind. If you’re ready to start your journey, we’re ready to guide you.
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section class-listing" mc:repeatable="bodySection" mc:variant="Class Listing">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="class-listing-item first-item" mc:hideable>
+                                <tr>
+                                  <td valign="top">
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column first-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-date" mc:edit="itemfirstdate">
+                                            21 July 2017
+                                          </div>
+                                          <div class="class-begin-time" mc:edit="itemfirstbegintime">
+                                            Starts: 21:00
+                                          </div>
+                                          <div class="class-end-time" mc:edit="itemfirstendtime">
+                                            Ends: 22:30
+                                          </div>
+                                          <div class="class-theme" mc:hideable mc:edit="itemfirsttheme">
+                                            Class theme: Awareness
+                                          </div>
+                                          <div mc:edit="itemfirstreadmore">
+                                            <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>RSVP</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column second-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-venue" mc:edit="itemfirstlocation">
+                                            Lincoln center
+                                          </div>
+                                          <div class="class-address" mc:edit="itemfirstaddress">
+                                            10 Lincoln Center Plaza<br>
+                                            NY, New York 10020
+                                          </div>
+                                          <div class="class-instructor" mc:hideable mc:edit="itemfirstinsctuctor">
+                                            Instructor: Lawrence Pride
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" align="center" class="class-details">
+                                    <div mc:hideable mc:edit="itemfirstdetails">
+                                      We’re building a world where everyone can live their best life: full of purpose.
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="class-listing-item second-item" mc:hideable>
+                                <tr>
+                                  <td valign="top">
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column first-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-date" mc:edit="itemseconddate">
+                                            21 July 2017
+                                          </div>
+                                          <div class="class-begin-time" mc:edit="itemsecondbegintime">
+                                            Starts: 21:00
+                                          </div>
+                                          <div class="class-end-time" mc:edit="itemsecondendtime">
+                                            Ends: 22:30
+                                          </div>
+                                          <div class="class-theme" mc:hideable mc:edit="itemsecondtheme">
+                                            Class theme: Awareness
+                                          </div>
+                                          <div mc:edit="itemsecondreadmore">
+                                            <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>RSVP</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column second-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-venue" mc:edit="itemsecondlocation">
+                                            Lincoln center
+                                          </div>
+                                          <div class="class-address" mc:edit="itemsecondaddress">
+                                            10 Lincoln Center Plaza<br>
+                                            NY, New York 10020
+                                          </div>
+                                          <div class="class-instructor" mc:hideable mc:edit="itemsecondinsctuctor">
+                                            Instructor: Lawrence Pride
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" align="center" class="class-details">
+                                    <div mc:hideable mc:edit="itemseconddetails">
+                                      We’re building a world where everyone can live their best life: full of purpose.
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="class-listing-item third-item" mc:hideable>
+                                <tr>
+                                  <td valign="top">
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column first-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-date" mc:edit="itemthirddate">
+                                            21 July 2017
+                                          </div>
+                                          <div class="class-begin-time" mc:edit="itemthirdbegintime">
+                                            Starts: 21:00
+                                          </div>
+                                          <div class="class-end-time" mc:edit="itemthirdendtime">
+                                            Ends: 22:30
+                                          </div>
+                                          <div class="class-theme" mc:hideable mc:edit="itemthirdtheme">
+                                            Class theme: Awareness
+                                          </div>
+                                          <div mc:edit="itemthirdreadmore">
+                                            <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>RSVP</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column second-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-venue" mc:edit="itemthirdlocation">
+                                            Lincoln center
+                                          </div>
+                                          <div class="class-address" mc:edit="itemthirdaddress">
+                                            10 Lincoln Center Plaza<br>
+                                            NY, New York 10020
+                                          </div>
+                                          <div class="class-instructor" mc:hideable mc:edit="itemthirdinsctuctor">
+                                            Instructor: Lawrence Pride
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" align="center" class="class-details">
+                                    <div mc:hideable mc:edit="itemthirddetails">
+                                      We’re building a world where everyone can live their best life: full of purpose.
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="class-listing-item fourth-item" mc:hideable>
+                                <tr>
+                                  <td valign="top">
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column first-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-date" mc:edit="itemfourthdate">
+                                            21 July 2017
+                                          </div>
+                                          <div class="class-begin-time" mc:edit="itemfourthbegintime">
+                                            Starts: 21:00
+                                          </div>
+                                          <div class="class-end-time" mc:edit="itemfourthendtime">
+                                            Ends: 22:30
+                                          </div>
+                                          <div class="class-theme" mc:hideable mc:edit="itemfourththeme">
+                                            Class theme: Awareness
+                                          </div>
+                                          <div mc:edit="itemfourthreadmore">
+                                            <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>RSVP</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column second-column">
+                                      <tr>
+                                        <td valign="top">
+                                          <div class="class-venue" mc:edit="itemfourthlocation">
+                                            Lincoln center
+                                          </div>
+                                          <div class="class-address" mc:edit="itemfourthaddress">
+                                            10 Lincoln Center Plaza<br>
+                                            NY, New York 10020
+                                          </div>
+                                          <div class="class-instructor" mc:hideable mc:edit="itemfourthinsctuctor">
+                                            Instructor: Lawrence Pride
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" align="center" class="class-details">
+                                    <div mc:hideable mc:edit="itemfourthdetails">
+                                      We’re building a world where everyone can live their best life: full of purpose.
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section education" mc:repeatable="bodySection" mc:variant="Education">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="educationheading">
+                                Education
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/4a4f8ab1-fbe2-4798-a030-2d1807ab6a67.jpg" alt="" width="100%" mc:edit="educationimage">
+                              </div>
+                              <div class="section-dateauthor" mc:edit="educationdateauthor">
+                                25 May 2017 | photo by: Andrew Brams
+                              </div>
+                              <div class="section-title" mc:edit="educationtitle">
+                                Education Title goes here and it can continue up to two lines, if needed even three lines
+                              </div>
+                              <div class="section-subtitle" mc:hideable mc:edit="educationsubtitle">
+                                Subtitle text comes here if needed
+                              </div>
+                              <div class="section-text" mc:hideable mc:edit="educationtext">
+                                We’re building a world where everyone can live their best life: full of purpose, happiness, and peace of mind. If you’re ready to start your journey, we’re ready to guide you.
+                              </div>
+                              <div mc:edit="educationreadmore">
+                                <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>READ MORE</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section other" mc:repeatable="bodySection" mc:variant="Other">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="otherheading">
+                                Other Article
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/6c529c9b-b9bc-4bdb-aa31-769d295a5151.jpg" alt="" width="100%" mc:edit="otherimage">
+                              </div>
+                              <div class="section-dateauthor" mc:edit="otherdateauthor">
+                                25 May 2017 | photo by: Andrew Brams
+                              </div>
+                              <div class="section-title" mc:edit="othertitle">
+                                Article Type Title goes here and it can continue up to two lines, if needed even three lines
+                              </div>
+                              <div class="section-subtitle" mc:hideable mc:edit="othersubtitle">
+                                Subtitle text comes here if needed
+                              </div>
+                              <div class="section-text" mc:hideable mc:edit="othertext">
+                                We’re building a world where everyone can live their best life: full of purpose, happiness, and peace of mind. If you’re ready to start your journey, we’re ready to guide you.
+                              </div>
+                              <div mc:edit="otherreadmore">
+                                <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>READ MORE</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section gif" mc:repeatable="bodySection" mc:variant="GIF">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="gifheading">
+                                GIF
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/ec596c53-813d-414e-bfa8-6d0fb1564e47.jpg" alt="" width="100%" mc:edit="gifimage">
+                              </div>
+                              <div class="section-title" mc:edit="giftitle">
+                                GIF name goes here
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section quote" mc:repeatable="bodySection" mc:variant="Quote">
+                          <tr>
+                            <td bgcolor="#49c9d8" style="background-repeat:no-repeat;background-position:center;background-size:cover;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" background="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/0c9594ea-2830-4f63-bb18-f0ac6e888ca9.png" width="100%" height="3">
+                              
+                            </td>
+                          </tr>
+                          <tr>
+                            <td valign="top" align="center" class="quote-content">
+                              
+                              <div class="section-heading" mc:edit="introheading">
+                                Meditation intro
+                              </div>
+                              <div class="section-image">
+                                <img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/4a4f8ab1-fbe2-4798-a030-2d1807ab6a67.jpg" alt="" width="100%" mc:edit="educationimage">
+                              </div>
+                              <br>
+                              <div class="quote-heading">“</div>
+                              <div class="quote-text" mc:edit="quotetext">
+                                Silence isn’t empty,<br>
+                                it is full of awareness.
+                              </div>
+                              <div class="quote-author" mc:edit="quoteauthor">
+                                –Wayne Dyer
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="section advice" mc:repeatable="bodySection" mc:variant="Advice">
+                          <tr>
+                            <td valign="top" class="section-content">
+                              <div class="section-heading" mc:edit="adviceheading">
+                                Practical Advice
+                              </div>
+                              <div class="section-title" mc:edit="advicetitle">
+                                Practical Advice goes here and it can continue up to two lines, if needed even three lines
+                              </div>
+                              <div class="section-text" mc:hideable mc:edit="advicetext">
+                                We’re building a world where everyone can live their best life: full of purpose, happiness, and peace of mind. If you’re ready to start your journey, we’re ready to guide you.
+                              </div>
+                              <div mc:edit="advicereadmore">
+                                <a href="http://www.example.com" target="_blank" title="" class="read-more"><span>READ MORE</span><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/7d2a10dd-46e4-46e1-a9db-178c1fa5b491.jpg" width="6" alt=""></a>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- END BODY // -->
+                    <!-- BEGIN PREFOOTER // -->
+                    <tr>
+                      <td valign="top" align="center" id="templatePrefooter">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                          <tr>
+                            <td valign="top">
+                              <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="footer-links">
+                                <tr>
+                                  <td valign="top" align="left">
+                                    <a href="http://www.journeymeditation.com">www.journeymeditation.com</a>
+                                    <br><a href="mailto:accounts@journeymeditation.com">accounts@journeymeditation.com</a>
+                                    <br><a href="tel:+16465049226">(646) 504-9226</a>
+                                  </td>
+                                </tr>
+                              </table>
+                              <table align="right" border="0" cellpadding="0" cellspacing="0" width="50%" class="footer-socials">
+                                <tr>
+                                  <td valign="top" align="right">
+                                    <a href="https://www.facebook.com/journeymeditation/" target="_blank" title=""><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/a7f6d444-d258-4be2-83b9-0f9013b0f597.jpg" width="25" alt="Facebook"></a>
+                                    <a href="https://twitter.com/journeymeditate" target="_blank" title=""><img src="https://gallery.mailchimp.com/8e7d45261213d8153ae2a4728/images/0788e4ed-41f7-4229-aabf-582627c3204d.jpg" width="25" alt="Twitter"></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- // END PREFOOTER -->
+                    <!-- BEGIN FOOTER // -->
+                    <tr>
+                      <td valign="top" align="center" id="templateFooter">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                          <tr>
+                            <td valign="top">
+                              <table align="left" border="0" cellpadding="0" cellspacing="0" width="50%" class="column">
+                                <tr>
+                                  <td valign="middle" align="left">
+                                    <a href="*|UNSUB|*" target="_blank" title="Unsubscribe">Unsubscribe</a>
+                                  </td>
+                                </tr>
+                              </table>
+                              <table align="right" border="0" cellpadding="0" cellspacing="0" width="50%" class="column">
+                                <tr>
+                                  <td valign="middle" align="right">
+                                    <a href="http://www.example.com" target="_blank" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- // END FOOTER -->
+                  </table>
+                  <!--[if gte mso 9]>
+                </td>
+              </tr>
+            </table>
+            <![endif]-->
+                  <!-- // END TEMPLATE -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+</html>
